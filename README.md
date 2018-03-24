@@ -1,6 +1,6 @@
 # rensiyuan
 # education
 ## undergradute for southeast university
-## masterDegee in jiangnan university now
+## masterDegree in jiangnan university now
 
 
